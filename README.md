@@ -1,2 +1,0 @@
-# narratives
-PromptLogicML
