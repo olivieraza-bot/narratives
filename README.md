@@ -31,12 +31,6 @@ o	Modular dashboard logic templates
 o	Schema validation scripts
 o	Logic assertions and threshold checks
 
-•	CONTRIBUTING.md 
-Contribution guidelines and formatting standards
-
-•	LICENSE 
-MIT License — © 2025 Olivier RAZANAJATOVO
-
 •	README.md 
 Project overview and onboarding instructions
 
@@ -66,14 +60,13 @@ To contribute:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for tag conventions, MathML standards, and review procedures.
 
- License
-This project is licensed under the [MIT License](LICENSE) — © 2025 Olivier RAZANAJATOVO.  
-You are free to use, modify, and distribute this software with attribution.  
-See the full license text in the `LICENSE` file.
-
 Explore Further
 - Browse prompt templates in `/prompts`
 - Study logic structures in `/schemas`
 - Follow walkthroughs in `/examples`
 - Integrate structures into your own LLM pipelines
 
+ License
+This project is licensed under the [MIT License](LICENSE) — © 2025 Olivier RAZANAJATOVO.  
+You are free to use, modify, and distribute this software with attribution.  
+See the full license text in the `LICENSE` file.
