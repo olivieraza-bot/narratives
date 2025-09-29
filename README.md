@@ -5,29 +5,38 @@ Purpose
 This project aims to transpose complex scenarios—such as financial reporting cycles or EU AI Act requirements—into structured, interpretable, and auditable prompts. Each event, condition, or threshold is encapsulated in a tagged grammar, readable by both humans and machines.
 
 Repository Index
+
 •	/prompts/ 
 XML/MathML prompt templates organized by domain:
 o	finance/ — IFRS, FINREP, variance thresholds
 o	ai_regulation/ — EU AI Act, audits, risk classification
+
 •	/schemas/
 o	tags.xml — XML tag definitions
 o	conditions.mathml — MathML logic blocks for compliance modeling
+
 •	/examples/
 o	Annotated walkthroughs and rendered outputs
 o	Example timelines and decision logic
+
 •	/docs/
 o	Technical documentation
 o	Semantic overlay guides and integration notes
+
 •	/dashboards/
 o	Mutation-tagged ledger models
 o	Modular dashboard logic templates
+
 •	/tests/
 o	Schema validation scripts
 o	Logic assertions and threshold checks
+
 •	CONTRIBUTING.md 
 Contribution guidelines and formatting standards
+
 •	LICENSE 
 MIT License — © 2025 Olivier RAZANAJATOVO
+
 •	README.md 
 Project overview and onboarding instructions
 
