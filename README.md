@@ -1,7 +1,9 @@
 PromptLogicML
 PromptLogicML is a semantic prompt engineering framework for large language models (LLMs), built on XML-like syntax enriched with MathML. It enables the modeling of regulatory timelines, conditional logic, and compliance structures across critical domains such as finance, AI governance, and modular dashboards.
+
 Purpose
 This project aims to transpose complex scenarios—such as financial reporting cycles or EU AI Act requirements—into structured, interpretable, and auditable prompts. Each event, condition, or threshold is encapsulated in a tagged grammar, readable by both humans and machines.
+
 Repository Index
 •	/prompts/ 
 XML/MathML prompt templates organized by domain:
